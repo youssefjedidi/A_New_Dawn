@@ -2,10 +2,10 @@
     <h1>A New Dawn</h1>
 </div>
 
-"A New Dawn" is a 2D Unity game developed for the Brackeys Game Jam 2023.1 using the Unity game engine and programmed in C#. It offers an exciting adventure where players navigate through a dynamically changing world that alternates between two game modes. The game presents fresh challenges every day, requiring quick thinking and reflexes.
+["A New Dawn"](https://jedidiy.itch.io/a-new-dawn) is a 2D Unity game developed for the [Brackeys Game Jam 2023.1](https://itch.io/jam/brackeys-9) using the Unity game engine and programmed in C#. It offers an exciting adventure where players navigate through a dynamically changing world that alternates between two game modes. The game presents fresh challenges every day, requiring quick thinking and reflexes.
 
 ## Game Description
-This game was developed within a week for Brackeys Game Jam 2023.1, following the theme "An end is a new beginning." "A New Dawn" captures this theme by offering a constant cycle of challenges that keep players engaged and eager to explore this exciting and ever-changing world.
+This game was developed within a week for [Brackeys Game Jam 2023.1](https://itch.io/jam/brackeys-9), following the theme "An end is a new beginning." "A New Dawn" captures this theme by offering a constant cycle of challenges that keep players engaged and eager to explore this exciting and ever-changing world.
 
 In "A New Dawn," players embark on a thrilling adventure where each day marks the end of one cycle and the beginning of another. The game features two alternating game modes, offering a variety of challenges and experiences. Players will encounter obstacles and enemies as they strive to reach the end of each level and progress to the next day. The dynamic nature of the game ensures that players stay engaged and excited, experiencing the thrill of an adventure game one day and the excitement of a runner game the next.
 
