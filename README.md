@@ -11,6 +11,7 @@ In "A New Dawn," players embark on a thrilling adventure where each day marks th
 
 ## Deployment
 The game can be played online on itch.io at the following link: [A_New_Dawn](https://jedidiy.itch.io/a-new-dawn)
+
 To run the game locally for windows you can download it under download section, [A_New_Dawn](https://jedidiy.itch.io/a-new-dawn)
 
 ## Screenshots
