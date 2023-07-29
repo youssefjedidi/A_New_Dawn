@@ -15,10 +15,13 @@ The game can be played online on itch.io at the following link: [A_New_Dawn](htt
 To run the game locally for windows you can download it under download section, [A_New_Dawn](https://jedidiy.itch.io/a-new-dawn)
 
 ## Screenshots
-Include some screenshots here to visually showcase the game.
-![Screenshot 2023-02-18 133814 (3) (1)](https://github.com/youssefjedidi/A_New_Dawn/assets/103137821/dfd5ce0d-6693-4409-8f13-a22bf37363fc)
-![Screenshot 2023-02-18 132844](https://github.com/youssefjedidi/A_New_Dawn/assets/103137821/46756290-369d-4a4b-a449-6b2a54a1a5bd)
-![Screenshot 2023-02-18 132749](https://github.com/youssefjedidi/A_New_Dawn/assets/103137821/08aa38ab-2034-4847-9dce-f9eba3f3d8eb)
+<div align="center">
+    
+![Screenshot 2023-02-18 133814 (3) (1)](https://github.com/youssefjedidi/A_New_Dawn/assets/103137821/d7eb29ad-4d48-47ec-8284-08082e6d3467)
+![Screenshot 2023-02-18 132844](https://github.com/youssefjedidi/A_New_Dawn/assets/103137821/7d395592-58c0-4ae9-9e2e-af3f61f6e22a)
+![Screenshot 2023-02-18 132749](https://github.com/youssefjedidi/A_New_Dawn/assets/103137821/3cbe364c-0674-4f99-b3db-90d4e60bc6a6)
+
+</div>
 
 ## Controls
 - A-D: Horizontal movement
